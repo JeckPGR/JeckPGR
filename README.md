@@ -5,7 +5,7 @@
 ---
 
 ###  About Me :man_technologist: :
-I am a Student/ Front End Developer from Indonesia.
+
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
